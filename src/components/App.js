@@ -1,14 +1,12 @@
 import React from 'react';
 import actions from '../actions';
 
-class App extends React.Components {
+const App = () =>{
 
-    render(){
-        return (
-            <div></div>
-        );
-    }
-    
+    return (
+        <div></div>
+    );
 }
+    
 
 export default App;
